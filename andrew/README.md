@@ -6,10 +6,15 @@ this is where u will see my stupid stuff and more stupid stuff.
 
 ### Mission 1
 
-[random link](mission1.html)
-[random link](mission1.html)
-[stuff2](totallysafesite.com)
-stuff3
+[mission 1](mission1.html)
+
+### Mission 2
+
+[variables code skills exercise](variables.html)
+
+[if statements code skills exercise](ifstatements.html)
+
 stuff4
+
 stuff5
 
