@@ -8,7 +8,7 @@ this is where u will see my stupid stuff and more stupid stuff.
 
 [random link](mission1.html)
 [random link](mission1.html)
-stuff2
+[stuff2](totallysafesite.com)
 stuff3
 stuff4
 stuff5
