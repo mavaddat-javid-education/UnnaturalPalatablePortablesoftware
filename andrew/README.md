@@ -7,6 +7,7 @@ this is where u will see my stupid stuff and more stupid stuff.
 ### Mission 1
 
 [random link](mission1.html)
+[random link](mission1.html)
 stuff2
 stuff3
 stuff4
