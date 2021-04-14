@@ -14,6 +14,6 @@ this is where u will see my stupid stuff and more stupid stuff.
 
 [if statements code skills exercise](ifstatements.html)
 
-stuff4
+[else statements](elsestatements.html)
 
 stuff5

@@ -13,3 +13,5 @@ this is where you will find out about my magical and heragous work.
 [variables code skills exercise](variables.html)
 
 [if statements code skill exercise](ifstatements.html)
+
+[else statements code skill exercise](elsestatements.html)
