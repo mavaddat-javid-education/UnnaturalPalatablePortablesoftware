@@ -4,6 +4,22 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+  input#show, input#hide {
+    display:none;
+}
+
+span#content {
+    display:none;
+}
+input#show:checked ~ span#content {
+  display:block;
+}
+
+input#hide:checked ~ span#content {
+    display:none;
+}
+</style>
 	<title>Testing</title>
 </head>
 
@@ -16,14 +32,25 @@
 </pre>
 		<!--Created using ToHtml.com on 2021-04-28 01:16:23 UTC -->
 		If I type into a browser console, I get the following:
-    <img src="image_2021-04-27_181443.png" alt="A screenshot of the ">
-    In other words, it does nothing!
+    <p><img src="image_2021-04-27_181443.png" alt="A screenshot of the "></p>
+    In other words, it does nothing! So how do I <em>call</em> the function?
+    label for="show">
+    <span>Click me to show answer</span>
+</label>
+<input type=radio id="show" name="group">
+<label for="hide">
+    <span>Hide</span> 
+</label>    
+<input type=radio id="hide" name="group">
+<p id="content">Answer: <br/>
+   We have to call the function by <em>using its name!</em> The function's name here is <pre>sayHi</pre>. However, we cannot just use <pre>sayHi</pre>, but we also have to use parentheses.
+</p>
 	</div>
 	<script>
 		function sayHi(toName){
       alert("Hi, "+toName);
     }
-    sayHi();
+    sayHi("Stephen Curry");
 	</script>
 
 </body>
