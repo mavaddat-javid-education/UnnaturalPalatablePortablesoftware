@@ -15,3 +15,5 @@ this is where you will find out about my magical and heragous work.
 [if statements code skill exercise](ifstatements.html)
 
 [else statements code skill exercise](elsestatements.html)
+
+[zebu animal code skills challenge](zebu.htmml)

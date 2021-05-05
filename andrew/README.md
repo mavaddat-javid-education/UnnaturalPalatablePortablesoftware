@@ -17,3 +17,4 @@ this is where u will see my stupid stuff and more stupid stuff.
 [else statements code skills exercise](elsestatements.html)
 
 stuff5
+[zebu](zebu.html)
