@@ -16,4 +16,4 @@ this is where you will find out about my magical and heragous work.
 
 [else statements code skill exercise](elsestatements.html)
 
-[zebu animal code skills challenge](zebu.htmml)
+[zebu animal code skills challenge](zebu.html)
